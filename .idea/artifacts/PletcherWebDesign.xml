@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PletcherWebDesign">
+    <output-path>$PROJECT_DIR$/out/artifacts/PletcherWebDesign</output-path>
+    <root id="archive" name="PletcherWebDesign.war">
+      <element id="javaee-facet-resources" facet="PletcherWebDesign/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PletcherWebDesign" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Struts 2-2.3.20.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
